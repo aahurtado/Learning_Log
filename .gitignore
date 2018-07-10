@@ -1,4 +1,6 @@
 .vscode
+ll_env/
+*.sqlite3
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
